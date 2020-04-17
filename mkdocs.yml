@@ -1,0 +1,8 @@
+site_name: Course Project Tutorial
+markdown_extensions: 
+    - mdx_math:
+        enable_dollar_delimiter: True #for use of inline $..$
+    - fenced_code
+    - codehilite
+    - footnotes
+    - meta
