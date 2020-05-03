@@ -89,6 +89,12 @@
                 <div class="col-md-9" role="main">
 
 <h1 id="setup">Setup</h1>
+<p><strong>Update 2020.05.03</strong>: We modified codes in the scene file. Now the scene will also publish "/clock" message to ROS and set rosparam "use_sim_time" to "true" by default. As a result, launching nodes and rviz after the V-REP initialization, we can see ROS being synchronize with simulation time (all timestamps, /tf trees will be using simulation time in V-REP). In your own ROS nodes (e.g. python), you will get simulation time with the standard</p>
+<div class="codehilite"><pre><span></span><span class="n">rospy</span><span class="o">.</span><span class="n">get_time</span><span class="p">()</span>
+</pre></div>
+
+
+<p>This update should not affect your existing code and is expected to fix the TF_OLD_DATA problem. Hints: It is now possible to integrate velocity command to produce coarse/noisy odometry.</p>
 <h2 id="enviroment">Enviroment</h2>
 <p>The newest version of regarding softwares is recommended.<br>
 <a href="http://wiki.ros.org/kinetic">ROS: Kinetic</a><br>
@@ -110,7 +116,7 @@ Platform: Ubuntu 16.04 LTS </p>
 </pre></div>
 
 
-<p>In V-REP, load the scene file <a href="../resourcres/env.ttt"><em>env.ttt</em></a>.
+<p>In V-REP, load the <strong>updated</strong> scene file <a href="../resources/env_modified.ttt"><em>env.ttt</em></a>.
 <strong>After pressing the start button</strong>, you can use</p>
 <div class="codehilite"><pre><span></span><span class="n">rostopic</span> <span class="n">list</span>
 </pre></div>
