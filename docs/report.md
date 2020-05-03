@@ -1,8 +1,6 @@
 # Report
 
 ## Project Report Guide
-Author: [Yuxuan, Liu](mailto:yliuhb@connect.ust.hk)
-Date: 2019.04.17
 
 A report acts as papers in conferences for our course. So it must contains:
 
