@@ -9,6 +9,7 @@ A report acts as papers in conferences for our course. So it must contains:
 - Motivations/Applications for your work
 - Conclusions/Limitations/Future work
 - etc
+
 ## A general outline
 Temporarily **no standard template** for the report. If you want more detailed guides, you can contact with me through email [TA Yuxuan, Liu](mailto:yliuhb@connect.ust.hk). Here is **a sample outline**:
 
@@ -23,7 +24,6 @@ Use several subsections to describe the function and implement for each module. 
 Which covers topics like motivations/applications/limitaions/future work, a multi-aspects discussion on your work.
 5. References
 Tutorials you follow, papers/books you read, for other people to follow your work.
+
 ## Expected report pages:
 No hard requirement. You only need to conclude your team contributions, with enough information.  <br>
-Some people can use abstract words while describing a complex system. Or you can use more media info like images/videos links to make your report more intuitive for readers. <br>
-Basically if your report contains enough information, it should be about 6~12 pages(just biased estimation). More pages are acceptable.

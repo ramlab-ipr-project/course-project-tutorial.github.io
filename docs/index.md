@@ -1,4 +1,4 @@
-# Course Project Tutorial: ELEC5670 & COMP 5223
+# Course Project Tutorial: ELEC3210
 
 **Notice**:
 
