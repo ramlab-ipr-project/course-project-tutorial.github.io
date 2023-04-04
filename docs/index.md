@@ -1,4 +1,4 @@
-# IPR - Course Project Tutorial:
+# IPR - Course Project Tutorial
 
 **Notice**:
 
