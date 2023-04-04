@@ -1,4 +1,4 @@
 arrange:
-    # - index.md
+    - index.md
     - setup.md
     - report.md
