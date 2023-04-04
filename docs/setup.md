@@ -6,7 +6,7 @@ The newest version of regarding softwares is recommended.<br>
 [V-REP: 3.6.2 PRO EDU]:Please Select **Pro EDU** for **your own ubuntu version** <br>
 Platform: Ubuntu 18.04 LTS 
 
-The above environment was tested before. If you have any problems, please contact yliuhb@connect.ust.hk
+The above environment was tested before. If you have any problems, please contact TAs.
 
 We personally tested the raw [V-REP: 3.6.2 PRO EDU] on ROS-Melodic/Ubuntu 18.04. This setup should also be fine with ROS-Kinetic/Ubuntu 16.04.
 
